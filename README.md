@@ -3,7 +3,7 @@
 > Sou um aspirante **Desenvolvedor Front-End** e **Técnico em Informática e Eletrônica**
 <br>
 
-![:us:](https://www.countryflags.io/us/flat/24.png) [English version](README-en.md)
+![:us:](https://www.countryflags.io/us/flat/24.png) [**English version**](README-en.md)
 
 <br>
 
