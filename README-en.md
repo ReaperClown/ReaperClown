@@ -1,20 +1,20 @@
 ## Hi, i'm Willian Mesquita.
 
-> I'm an aspiring **Front-End Developer** and **Computer and Electronics Technician**.
+> I'm a **Front-End Developer** and **Computer and Electronics Technician**.
 
 <br>
 
 🛠 Skills:
 
-👨‍💻 **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **jQuery**, **SQL**, **MySQL**, **PHP**, **AJAX**, **C**(basic/Arduino);
+👨‍💻 **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **jQuery**, **Docker, **SQL**, **Java**, **Go**, **MySQL**, **PHP**, **PostgreSQL**, **AJAX**, **C**(basic/Arduino);
 
-🖥 **Redes de computadores**, **Cabling**, **Network Structure**, **Operational Systems**.
+🖥 **Computer Network**, **Cabling**, **Network Structure**, **Operational Systems**.
 
 <br>
 
 🛠 Tools:
 
-**VS Code**, **Beekeeper**/**MySQL Workbench**, **PostgreSQL**, **Arduino**;
+**VS Code**, **Beekeeper**/**MySQL Workbench**, **pgAdmin**, **Arduino**, **Docker/DockerHub**;
 
 **Photoshop**, **VEGAS**, **Office**.
 
