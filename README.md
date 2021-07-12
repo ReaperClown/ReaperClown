@@ -1,6 +1,6 @@
 ## Olá, meu nome é Willian Mesquita.
 
-> Sou um aspirante **Desenvolvedor Front-End** e **Técnico em Informática e Eletrônica**
+> Sou **Desenvolvedor Front-End** e **Técnico em Informática e Eletrônica**
 <br>
 
 ![:us:](https://www.countryflags.io/us/flat/24.png) [**English version**](README-en.md)
@@ -9,7 +9,7 @@
 
 🛠 Habilidades:
 
-👨‍💻 **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **jQuery**, **SQL**, **MySQL**, **PHP**, **AJAX**, **C**(básico/Arduino);
+👨‍💻 **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **jQuery**, **Docker, **SQL**, **Java**, **Go**, **MySQL**, **PHP**, **PostgreSQL**, **AJAX**, **C**(básico/Arduino);
 
 🖥 **Redes de computadores**, **Cabeamento**, **Estrutura de rede**, **Sistemas Operacionais**.
 
@@ -17,7 +17,7 @@
 
 🛠 Ferramentas:
 
-**VS Code**, **Beekeeper**/**MySQL Workbench**, **PostgreSQL**, **Arduino**;
+**VS Code**, **Beekeeper**/**MySQL Workbench**, **pgAdmin**, **Arduino**;
 
 **Photoshop**, **VEGAS**, **Office**.
 
