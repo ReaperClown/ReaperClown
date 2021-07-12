@@ -1,6 +1,7 @@
 ## Olá, meu nome é Willian Mesquita.
 
 > Sou **Desenvolvedor Front-End** e **Técnico em Informática e Eletrônica**
+
 <br>
 
 ![:us:](https://www.countryflags.io/us/flat/24.png) [**English version**](README-en.md)
@@ -17,7 +18,7 @@
 
 🛠 Ferramentas:
 
-**VS Code**, **Beekeeper**/**MySQL Workbench**, **pgAdmin**, **Arduino**;
+**VS Code**, **Beekeeper**/**MySQL Workbench**, **pgAdmin**, **Arduino**, **Docker/DockerHub**;
 
 **Photoshop**, **VEGAS**, **Office**.
 
