@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_cloownn" target="blank"><img src="https://img.shields.io/twitter/follow/_cloownn?logo=twitter&style=for-the-badge" alt="_cloownn" /></a> </p>
 
-- 👨‍💻 Portfolio [em breve]()
+- 👨‍💻 Portfolio [soon]()
 
 - 📫 Contact **the.willian.mesquita@gmail.com**
 
