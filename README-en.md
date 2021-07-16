@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, i'm Willian Mesquita</h1>
 <h3 align="center">I'm a Front-End Developer and a Computer and Electronics Technician</h3>
 
+---
+
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=reaperclown&label=Profile%20views&color=0e75b6&style=flat" alt="reaperclown" /> </p>
@@ -20,11 +22,15 @@
 
 <br>
 
+<details open align="center">
+  <br>
+    <summary>⚙ <b>GitHub Analytics</b>: </summary>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reaperclown&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="reaperclown" width="495" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reaperclown&show_icons=true&locale=en&theme=midnight-purple" alt="reaperclown" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reaperclown&theme=midnight-purple" alt="reaperclown" /></p>
+</details>
 
 <br>
 
