@@ -20,11 +20,11 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reaperclown&show_icons=true&locale=en&layout=compact" alt="reaperclown" width="495" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reaperclown&show_icons=true&locale=pt-br&layout=compact&theme=midnight-purple" alt="reaperclown" width="495" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=reaperclown&show_icons=true&locale=en" alt="reaperclown" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reaperclown&show_icons=true&locale=pt-br&theme=midnight-purple" alt="reaperclown" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reaperclown&" alt="reaperclown" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reaperclown&theme=midnight-purple" alt="reaperclown" /></p>
 
 <br>
 
