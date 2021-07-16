@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, meu nome é Willian Mesquita</h1>
 <h3 align="center">Sou Desenvolvedor Front-End e Técnico em Informática e Eletrônica</h3>
 
+---
+
 <div align="center">
   <h3><a href="https://github.com/ReaperClown/ReaperClown/blob/main/README-en.md">
     <img src="https://www.countryflags.io/us/flat/24.png">
@@ -25,11 +27,15 @@
 
 <br>
 
+<details open align="center">
+  <br>
+    <summary>⚙ <b>Estatísticas do GitHub</b>: </summary>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reaperclown&show_icons=true&locale=pt-br&layout=compact&theme=midnight-purple" alt="reaperclown" width="495" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reaperclown&show_icons=true&locale=pt-br&theme=midnight-purple" alt="reaperclown" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reaperclown&theme=midnight-purple" alt="reaperclown" /></p>
+</details>
 
 <br>
 
