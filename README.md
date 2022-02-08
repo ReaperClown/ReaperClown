@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3><a href="https://github.com/ReaperClown/ReaperClown/blob/main/README-en.md">
-    <img src="images/us.svg">
+    <img src="images/us.svg" width="50" height="30">
    English version 
     </a></h3>
 </div>
