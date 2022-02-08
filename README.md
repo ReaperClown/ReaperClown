@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3><a href="https://github.com/ReaperClown/ReaperClown/blob/main/README-en.md">
-    <img src="https://www.countryflags.io/us/flat/24.png">
+    <img src="images/us.svg">
    English version 
     </a></h3>
 </div>
